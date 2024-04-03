@@ -1,0 +1,144 @@
+.loginbtn{
+    padding: 2px 40px !important;
+}
+/* .firstp{
+    width: px;
+} */
+.first{
+    background-image: url(image/headerbg.png);
+    /* background-color: aqua; */
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-size: 100% 75%;
+    /* padding-bottom: 30vh; */
+}
+/* .first_img{
+    top: 100px;
+    left: 15%;
+
+} */
+
+.smallparabg{
+    color: #0CBBC7;
+    background-color: #d4f5f7;
+    font-weight: bold;
+    font-size: 10px;
+}
+.h3edt{
+    font-weight: normal;
+}
+.txtblue{
+    color: #0CBBC7;
+    font-weight: bold;
+}
+.fa-check{
+    color: #016359;
+}
+.btngreen{
+    background-color: #0CBBC7 !important;
+    color: #ffff !important;
+}
+/* .forpeople img{
+    height: 400px;
+} */
+/* .forpeople{
+    width: 70vw !important;
+} */
+
+.smallcard {
+    height: 250px;
+    width: 250px;
+}
+/* .smallcard img{
+    height: 100px;
+    width: 89px;
+} */
+.smallcardbg1{
+    background-color: #FFF5F3;
+}
+.smallcardbg2{
+    background-color: #FFF0F9;
+}
+.smallcardbg3{
+    background-color: #ECFFFF;
+}
+.smallcardbg4{
+    background-color: #F6F4FF;
+}
+.smallcardbg5{
+    background-color: #FFF9E7;
+}
+.smallcardbg6{
+    background-color: #FFEDE4;
+}
+.txtgray{
+color: #676767;
+}
+.blueline{
+    width: 200px;
+    height: 5px;
+    margin-top: 15px;
+    background-color: #0CBBC7;
+}
+.built_sec_container{
+    background-color: #EDFEFF;
+}
+.imgpaddingcoustom{
+    margin-top: 500px;
+    margin-left: -50px;
+}
+.paypal{
+    background-color: #EDFEFF;
+
+}
+.testimonialwidth{
+    width: 80% !important;
+}
+.btn-outline{
+    color: #0CBBC7 !important;
+    border: 2px solid #0CBBC7 !important;
+}
+.btn-outline:hover{
+    color: #ffff !important;
+    background-color: #0CBBC7 !important;
+}
+
+.stay_cardbg{
+    background-color: #EDFEFF;
+    padding: 50px;
+    background-position-y: center;
+}
+.footer{
+    background-color: #232323;
+}
+.footerli{
+    color: #7C7C7C;
+}
+.hrcoustom{
+height: 5px;
+background-color: #2f8bd7;
+}
+.vl{
+    height: 15px;
+    width: 2px;
+    background-color: #9B9B9B;
+}
+
+
+
+.footerbpara ul li {
+    display: inline-block;
+    padding: 0 10px;
+  }
+  .footerbpara ul li ~ li {
+    border-left: 1px solid #d9d1d1;
+  }
+
+  @media screen and (max-width: 779px) {
+    /* body {
+      background-color: lightgreen!important;
+    } */
+    .stay_cardbg{
+        padding: 10px;
+    }
+  }
